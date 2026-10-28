@@ -2,7 +2,7 @@ title: Solar and Microgeneration in Alberta
 menulabel: Solar
 slug: solar
 copy_date: 2025-26
-modified: 2026-03-09 16:01
+modified: 2026-11-28 11:58 -0600
 
 Alberta has a very generous microgeneration regulation that allows you to sell
 your extra solar power produced back to the grid!
@@ -25,7 +25,7 @@ called a **Solar Club Rate.**
 
                 </h5>
                 <h6 class="panel-title card-price text-center">
-                    35 ¢<span class="period">/kWh</span>
+                    40 ¢<span class="period">/kWh</span>
                 </h6>
             </div>  <!-- panel heading -->
             <div class="panel-body">
